@@ -7,7 +7,8 @@ Restrição: 1) Distância máxima de 0.8km entre os pontos e seu centróide.
 
 A figura abaixo mostra os pontos em azul antes do agrupamento com o algoritmo kmeans.
 
-![image](https://user-images.githubusercontent.com/18504119/120047314-a7004f80-bfea-11eb-93c6-110243b5aaee.png)
+
+![image](https://user-images.githubusercontent.com/18504119/120047713-9e5c4900-bfeb-11eb-8fc3-3af8911081b7.png)
 
 
 A figura abaixo demonstra o resultado: clusters com cores diferentes e centróides com um marcador preto.
