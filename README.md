@@ -18,3 +18,7 @@ Entretanto, utilizando o algoritmo Kmeans, não foi possível respeitar a restri
 
 
 ![image](https://user-images.githubusercontent.com/18504119/120046912-9c918600-bfe9-11eb-93d5-cab654b217bf.png)
+
+
+Installation: 
+pip install folium
